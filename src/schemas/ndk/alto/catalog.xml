@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uriSuffix uriSuffix="alto-2-0-ndk.xsd" uri="./2.0/alto-2-0-ndk.xsd" />
+    <uriSuffix uriSuffix="alto-4-2-ndk.xsd" uri="./4.2/alto-4-2-ndk.xsd" />
+    <uriSuffix uriSuffix="alto-4-4-ndk.xsd" uri="./4.4/alto-4-4-ndk.xsd"/>
+    <uri name="http://www.loc.gov/standards/alto/ns-v2#" uri="./2.0/alto-2-0-ndk.xsd"/>
+    <uri name="http://www.loc.gov/standards/alto/ns-v4#" uri="./4.4/alto-4-4-ndk.xsd"/>
+</catalog>

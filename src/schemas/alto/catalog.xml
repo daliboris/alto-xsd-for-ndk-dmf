@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uriSuffix uriSuffix="alto-1-4.xsd" uri="./1.4/alto-1-4.xsd"/>
+    <uriSuffix uriSuffix="alto-2-0.xsd" uri="./2.0/alto-2-0.xsd"/>
+    <uriSuffix uriSuffix="alto-2-1.xsd" uri="./2.1/alto-2-1.xsd"/>
+    <uriSuffix uriSuffix="alto-2-2-draft.xsd" uri="./2.2/alto-2-2-draft.xsd"/>
+    <uriSuffix uriSuffix="alto-3-0.xsd" uri="./3.0/alto-3-0.xsd"/>
+    <uriSuffix uriSuffix="alto-3-1.xsd" uri="./3.1/alto-3-1.xsd"/>
+    <uriSuffix uriSuffix="alto-4-0.xsd" uri="./4.0/alto-4-0.xsd"/>
+    <uriSuffix uriSuffix="alto-4-1.xsd" uri="./4.1/alto-4-1.xsd"/>
+    <uriSuffix uriSuffix="alto-4-2.xsd" uri="./4.2/alto-4-2.xsd"/>
+    <uriSuffix uriSuffix="alto-4-3.xsd" uri="./4.3/alto-4-3.xsd"/>
+    <uriSuffix uriSuffix="alto-4-4.xsd" uri="./4.4/alto-4-4.xsd"/>
+    <uri name="http://www.loc.gov/standards/alto/ns-v2#" uri="./2.0/alto-2-0.xsd"/>
+    <uri name="http://www.loc.gov/standards/alto/ns-v4#" uri="./4.4/alto-4-4.xsd"/>
+</catalog>
